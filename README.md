@@ -1,7 +1,7 @@
 # Hotel_Resort_React_project
 
 This the project created with front-end react JS. And, the complete pages,rooms details etc are 
-given in it. This is the complete front end website.
+given in it. This is the complete front-end React website.
 
 # For Run,use :
 
